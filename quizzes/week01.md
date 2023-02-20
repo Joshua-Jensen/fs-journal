@@ -3,13 +3,13 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
+cd is used to change the directory you are using in a comand line
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+mkdir allows you to create a new directtory aka folder in the currently selected directory
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
@@ -27,7 +27,7 @@
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+cascadng style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
