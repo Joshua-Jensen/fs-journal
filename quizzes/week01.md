@@ -21,13 +21,13 @@ mkdir allows you to create a new directtory aka folder in the currently selected
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+hyper text markup language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-cascadng style sheets
+cascading style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
