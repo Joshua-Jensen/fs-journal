@@ -21,13 +21,13 @@ it is the root tag for a html document
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-hyper link markup language 
+
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-cascadng style sheets
+cascading style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
