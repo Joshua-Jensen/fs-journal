@@ -44,7 +44,7 @@ it is an program taht runs between the request and the server
 <!-- enter you answer in the space below -->
 ```
 inbound vs outbound
-```
+```6
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
