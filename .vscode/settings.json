@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#84627699",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#846276"
+    "peacock.color": "#846276",
+    "cSpell.words": [
+        "partnerporject"
+    ]
 }
